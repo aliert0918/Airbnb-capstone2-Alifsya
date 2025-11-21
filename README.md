@@ -69,4 +69,7 @@ Dataset mencakup informasi listing Airbnb Bangkok dengan fitur utama:
 *   `number_of_reviews` & `last_review`: Indikator aktivitas dan popularitas.
 *   `availability_365`: Ketersediaan listing dalam setahun.
 
+## Tableau Dashboard Link
+
+* Link Dashboard Tableau: [Dashboards Airbnb Bangkok](https://public.tableau.com/app/profile/alifsya.salam/viz/AirbnbListingsBangkok_17637292382570/Dashboard3)
 ---
